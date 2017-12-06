@@ -14,7 +14,7 @@ Setup your machine.
 
 #### Cloning & Importing Project
 Once above setup is done, Then follow this steps for cloning & importing
-1. Checkout project from ```https://vinaykumarvvs@bitbucket.org/vinaykumarvvs/webdriver-mocha.git```
+1. Checkout project from ```https://github.com/SatishKM/wdioMochaChaiJavascript.git```
 2. Import this project in any one of this IntelliJ/WebStorm/Sublime ```File -> Open -> Browse Project Location```
 3. Open Terminal and move to the project location ```webdriver-mocha``` , now execute ```npm install``` (It will download the dependencies from package.json).
 4. That's it, we are good to go.
